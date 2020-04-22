@@ -136,4 +136,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# datasets folder
+datasets/
+
 # End of https://www.gitignore.io/api/linux,python,jupyternotebooks
