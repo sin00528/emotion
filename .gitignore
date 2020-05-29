@@ -3,6 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=linux,python,jupyternotebooks
 
 /cnn/
+/trashbin/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
