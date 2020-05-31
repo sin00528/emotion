@@ -4,6 +4,7 @@
 
 /cnn/
 /trashbin/
+*.h5f
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
